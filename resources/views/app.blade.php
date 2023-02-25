@@ -8,8 +8,9 @@
 
         <!-- Fonts -->
         <link rel="preconnect" href="https://fonts.bunny.net">
-        <link href="https://fonts.bunny.net/css?family=figtree:400,500,600&display=swap" rel="stylesheet" />
-
+        <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700" rel="stylesheet" />
+        <!-- Font Awesome Icons -->
+        <script src="https://kit.fontawesome.com/42d5adcbca.js" crossorigin="anonymous"></script>
         <!-- Scripts -->
         @routes
         @vite(['resources/js/app.js', "resources/js/js/bootstrap.bundle.min.js"])
@@ -23,6 +24,32 @@
             "resources/css/global.css",
             "resources/css/index.css",
             "resources/css/product.css",
+        ])
+
+        @vite([
+            "resources/css/Admin/argon-dashboard-tailwind.min.css",
+            "resources/css/Admin/nucleo-icons.css",
+            "resources/css/Admin/nucleo-svg.css",
+            "resources/css/Admin/perfect-scrollbar.css",
+            "resources/css/Admin/tooltips.css",
+        ])
+
+        @vite([
+            "resources/js/js/Admin/argon-dashboard-tailwind.min.js",
+            "resources/js/js/Admin/carousel.js",
+            "resources/js/js/Admin/charts.js",
+            "resources/js/js/Admin/dropdown.js",
+            "resources/js/js/Admin/fixed-plugin.js",
+            "resources/js/js/Admin/nav-pills.js",
+            "resources/js/js/Admin/navbar-sticky.js",
+            "resources/js/js/Admin/perfect-scrollbar.js",
+            "resources/js/js/Admin/sidenav-burger.js",
+            "resources/js/js/Admin/tooltips.js",
+            "resources/js/js/Admin/plugins/Chart.extension.js",
+            "resources/js/js/Admin/chart.min.js",
+            "resources/js/js/Admin/perfect-scrollbar.min.js",
+
+
         ])
         @inertiaHead
     </head>
