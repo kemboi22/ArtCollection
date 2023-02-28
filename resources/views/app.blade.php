@@ -5,6 +5,12 @@
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
         <title inertia>{{ config('app.name', 'Laravel') }}</title>
+        <script src="https://kit.fontawesome.com/42d5adcbca.js" crossorigin="anonymous"></script>
+        <meta name="description" content="My Awesome App description">
+        <link rel="icon" href="/favicon.ico">
+        <link rel="apple-touch-icon" href="/apple-touch-icon.png" sizes="180x180">
+        <link rel="mask-icon" href="/mask-icon.svg" color="#FFFFFF">
+        <meta name="theme-color" content="#ffffff">
 
         <!-- Fonts -->
         <link rel="preconnect" href="https://fonts.bunny.net">
@@ -27,11 +33,11 @@
         ])
 
         @vite([
-            "resources/css/Admin/argon-dashboard-tailwind.min.css",
+            "resources/css/Admin/argon-dashboard.min.css",
             "resources/css/Admin/nucleo-icons.css",
             "resources/css/Admin/nucleo-svg.css",
             "resources/css/Admin/perfect-scrollbar.css",
-            "resources/css/Admin/tooltips.css",
+
         ])
 
         @vite([

@@ -17,12 +17,7 @@ use Inertia\Inertia;
 */
 
 Route::get('/', function () {
-    return Inertia::render('Welcome', [
-        'canLogin' => Route::has('login'),
-        'canRegister' => Route::has('register'),
-        'laravelVersion' => Application::VERSION,
-        'phpVersion' => PHP_VERSION,
-    ]);
+    return Inertia::render('Client/Home/HomePage');
 });
 
 Route::get('/dashboard', function () {
@@ -37,4 +32,7 @@ Route::middleware('auth')->group(function () {
 Route::get("/about", function (){
     return Inertia::render("Client/About/AboutPage");
 });
+
+
 require __DIR__.'/auth.php';
+

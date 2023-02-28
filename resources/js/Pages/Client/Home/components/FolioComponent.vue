@@ -9,7 +9,7 @@
                                 <div class="folio_main clearfix">
                                     <div class="folio_1im position-relative clearfix">
                                         <div class="folio_1im1 clearfix">
-                                            <a href="#"><img src="img/5.jpg" data-bs-target="#exampleModal" data-bs-toggle="modal" class="w-100" height="240" alt="abc"></a>
+                                            <a href="#"><img src="https://www.thenews.com.pk/assets/uploads/magazine/2022-09-06/988002_850770_art5_magazine.jpg" data-bs-target="#exampleModal" data-bs-toggle="modal" class="w-100" height="240" alt="abc"></a>
                                         </div>
                                         <div class="folio_1im2 pt-5 position-absolute top-0 h-100 text-center w-100 clearfix">
                                             <ul class="mb-0">
@@ -32,7 +32,7 @@
                                                     <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
                                                 </div>
                                                 <div class="modal-body">
-                                                    <img src="img/5.jpg" class="w-100" alt="abc">
+                                                    <img src="https://www.thenews.com.pk/assets/uploads/magazine/2022-09-06/988002_850770_art5_magazine.jpg" class="w-100" alt="abc">
                                                 </div>
                                                 <div class="modal-footer">
                                                     <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
@@ -45,7 +45,7 @@
                                 <div class="folio_main clearfix mt-4">
                                     <div class="folio_1im position-relative clearfix">
                                         <div class="folio_1im1 clearfix">
-                                            <a href="#"><img src="img/8.jpg" data-bs-target="#exampleModal1" data-bs-toggle="modal" class="w-100" height="410" alt="abc"></a>
+                                            <a href="#"><img src="https://www.thenews.com.pk/assets/uploads/magazine/2022-09-06/988002_850770_art5_magazine.jpg" data-bs-target="#exampleModal1" data-bs-toggle="modal" class="w-100" height="410" alt="abc"></a>
                                         </div>
                                         <div class="folio_1im2 pt-5 position-absolute top-0 h-100 text-center w-100 clearfix">
                                             <ul class="mb-0">
@@ -68,7 +68,7 @@
                                                     <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
                                                 </div>
                                                 <div class="modal-body">
-                                                    <img src="img/8.jpg" class="w-100" alt="abc">
+                                                    <img src="https://www.thenews.com.pk/assets/uploads/magazine/2022-09-06/988002_850770_art5_magazine.jpg" class="w-100" alt="abc">
                                                 </div>
                                                 <div class="modal-footer">
                                                     <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
@@ -83,7 +83,7 @@
                                 <div class="folio_main clearfix">
                                     <div class="folio_1im position-relative clearfix">
                                         <div class="folio_1im1 clearfix">
-                                            <a href="#"><img src="img/9.jpg" data-bs-target="#exampleModal2" data-bs-toggle="modal" class="w-100" height="410" alt="abc"></a>
+                                            <a href="#"><img src="https://www.thenews.com.pk/assets/uploads/magazine/2022-09-06/988002_850770_art5_magazine.jpg" data-bs-target="#exampleModal2" data-bs-toggle="modal" class="w-100" height="410" alt="abc"></a>
                                         </div>
                                         <div class="folio_1im2 pt-5 position-absolute top-0 h-100 text-center w-100 clearfix">
                                             <ul class="mb-0">
@@ -106,7 +106,7 @@
                                                     <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
                                                 </div>
                                                 <div class="modal-body">
-                                                    <img src="img/9.jpg" class="w-100" alt="abc">
+                                                    <img src="https://www.thenews.com.pk/assets/uploads/magazine/2022-09-06/988002_850770_art5_magazine.jpg" class="w-100" alt="abc">
                                                 </div>
                                                 <div class="modal-footer">
                                                     <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
@@ -119,7 +119,7 @@
                                 <div class="folio_main clearfix mt-4">
                                     <div class="folio_1im position-relative clearfix">
                                         <div class="folio_1im1 clearfix">
-                                            <a href="#"><img src="img/10.jpg" data-bs-target="#exampleModal3" data-bs-toggle="modal" class="w-100" height="410" alt="abc"></a>
+                                            <a href="#"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRa0jX57AEbdiuSHs75N85rYSXH0TTCUThMXA&usqp=CAU" data-bs-target="#exampleModal3" data-bs-toggle="modal" class="w-100" height="410" alt="abc"></a>
                                         </div>
                                         <div class="folio_1im2 pt-5 position-absolute top-0 h-100 text-center w-100 clearfix">
                                             <ul class="mb-0">
@@ -142,7 +142,7 @@
                                                     <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
                                                 </div>
                                                 <div class="modal-body">
-                                                    <img src="img/10.jpg" class="w-100" alt="abc">
+                                                    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRa0jX57AEbdiuSHs75N85rYSXH0TTCUThMXA&usqp=CAU" class="w-100" alt="abc">
                                                 </div>
                                                 <div class="modal-footer">
                                                     <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
@@ -157,7 +157,7 @@
                                 <div class="folio_main clearfix">
                                     <div class="folio_1im position-relative clearfix">
                                         <div class="folio_1im1 clearfix">
-                                            <a href="#"><img src="img/6.jpg" data-bs-target="#exampleModal4" data-bs-toggle="modal" class="w-100" height="240" alt="abc"></a>
+                                            <a href="#"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRa0jX57AEbdiuSHs75N85rYSXH0TTCUThMXA&usqp=CAU" data-bs-target="#exampleModal4" data-bs-toggle="modal" class="w-100" height="240" alt="abc"></a>
                                         </div>
                                         <div class="folio_1im2 pt-5 position-absolute top-0 h-100 text-center w-100 clearfix">
                                             <ul class="mb-0">
@@ -180,7 +180,7 @@
                                                     <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
                                                 </div>
                                                 <div class="modal-body">
-                                                    <img src="img/6.jpg" class="w-100" alt="abc">
+                                                    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRa0jX57AEbdiuSHs75N85rYSXH0TTCUThMXA&usqp=CAU" class="w-100" alt="abc">
                                                 </div>
                                                 <div class="modal-footer">
                                                     <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
@@ -193,7 +193,7 @@
                                 <div class="folio_main mt-4 clearfix">
                                     <div class="folio_1im position-relative clearfix">
                                         <div class="folio_1im1 clearfix">
-                                            <a href="#"><img src="img/7.jpg" data-bs-target="#exampleModal5" data-bs-toggle="modal" class="w-100" height="240" alt="abc"></a>
+                                            <a href="#"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYDJhMF2oOwsXBGZd_1A_JJPLM15PPPwQJBA&usqp=CAU" data-bs-target="#exampleModal5" data-bs-toggle="modal" class="w-100" height="240" alt="abc"></a>
                                         </div>
                                         <div class="folio_1im2 pt-5 position-absolute top-0 h-100 text-center w-100 clearfix">
                                             <ul class="mb-0">
@@ -216,7 +216,7 @@
                                                     <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
                                                 </div>
                                                 <div class="modal-body">
-                                                    <img src="img/7.jpg" class="w-100" alt="abc">
+                                                    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYDJhMF2oOwsXBGZd_1A_JJPLM15PPPwQJBA&usqp=CAU" class="w-100" alt="abc">
                                                 </div>
                                                 <div class="modal-footer">
                                                     <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
@@ -229,7 +229,7 @@
                                 <div class="folio_main mt-4 clearfix">
                                     <div class="folio_1im position-relative clearfix">
                                         <div class="folio_1im1 clearfix">
-                                            <a href="#"><img src="img/11.jpg" data-bs-target="#exampleModal6" data-bs-toggle="modal" class="w-100" height="240" alt="abc"></a>
+                                            <a href="#"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYDJhMF2oOwsXBGZd_1A_JJPLM15PPPwQJBA&usqp=CAU" data-bs-target="#exampleModal6" data-bs-toggle="modal" class="w-100" height="240" alt="abc"></a>
                                         </div>
                                         <div class="folio_1im2 pt-5 position-absolute top-0 h-100 text-center w-100 clearfix">
                                             <ul class="mb-0">

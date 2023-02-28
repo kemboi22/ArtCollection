@@ -1,4 +1,5 @@
 <template>
+
     <div class="main clearfix position-relative">
         <div class="main_1 clearfix position-absolute top-0 w-100">
             <NavBar/>

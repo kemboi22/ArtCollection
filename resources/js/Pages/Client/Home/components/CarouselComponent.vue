@@ -9,7 +9,7 @@
                 </div>
                 <div class="carousel-inner">
                     <div class="carousel-item active">
-                        <img src="img/1.jpg" class="d-block w-100" alt="...">
+                        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSL4JWIUvGSSoSK4xkx4A8kTiVuBkEqGqCZ8A&usqp=CAU" class="d-block w-100" alt="...">
                         <div class="carousel-caption d-md-block">
                             <h1 class="text-white font_60">Red Beauty Nature</h1>
                             <h4 class="text-white mt-3">Photography</h4>
@@ -19,7 +19,7 @@
                         </div>
                     </div>
                     <div class="carousel-item">
-                        <img src="img/2.jpg" class="d-block w-100" alt="...">
+                        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSL4JWIUvGSSoSK4xkx4A8kTiVuBkEqGqCZ8A&usqp=CAU" class="d-block w-100" alt="...">
                         <div class="carousel-caption d-md-block">
                             <h1 class="text-white font_60">Other Type Painting</h1>
                             <h4 class="text-white mt-3">Photography</h4>
@@ -29,7 +29,7 @@
                         </div>
                     </div>
                     <div class="carousel-item">
-                        <img src="img/3.jpg" class="d-block w-100" alt="...">
+                        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSL4JWIUvGSSoSK4xkx4A8kTiVuBkEqGqCZ8A&usqp=CAU" class="d-block w-100" alt="...">
                         <div class="carousel-caption d-md-block">
                             <h1 class="text-white font_60">Trending Art Picture</h1>
                             <h4 class="text-white mt-3">Photography</h4>
